@@ -80,3 +80,6 @@ C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\
 C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\rucha\OneDrive\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
